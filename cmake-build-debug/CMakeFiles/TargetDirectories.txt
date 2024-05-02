@@ -1,0 +1,3 @@
+D:/Semester_1_Projekte/Software/funktionen/cmake-build-debug/CMakeFiles/funktionen.dir
+D:/Semester_1_Projekte/Software/funktionen/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Semester_1_Projekte/Software/funktionen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
